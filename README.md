@@ -2,9 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-novelli-soares-3b262b20b/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaNovelliSoares&hide_progress=true)
+![GeovanaNovelliSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovanaNovelliSoares&show_icons=true&theme=dracula)
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaNovelliSoares&layout=compact&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovanaNovelliSoares&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
