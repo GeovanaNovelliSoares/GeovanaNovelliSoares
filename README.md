@@ -2,8 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-novelli-soares-3b262b20b/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaNovelliSoares&layout=compact&theme=dracula)
-
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
