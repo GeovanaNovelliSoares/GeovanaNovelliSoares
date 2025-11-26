@@ -1,29 +1,31 @@
-### Olá! Eu sou a Geovana Novelli Soares! 🖐
+### 👋 Olá! Eu sou a Geovana Novelli Soares!
+
+👩‍💻 **Engenheira de Software e Dados | Transformando Problemas em Soluções Inteligentes.**
+
+Sou uma profissional Full Stack com foco estratégico em **Engenharia de Dados e Inteligência Artificial**. Meu objetivo é construir arquiteturas robustas que integram o desenvolvimento web ao processamento e análise de dados em ambientes multicloud.
+
+---
+
+### 🛠️ Stack Principal (Ferramentas que me movem)
+
+| Área | Tecnologias Chave | Badges |
+| :--- | :--- | :--- |
+| **Backend & Dados** | Python, PostgreSQL, Flask, Django | <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> |
+| **Frontend** | React, Node.js, JavaScript | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
+
+---
+
+### 📚 Formação e Foco Estratégico
+
+* **🎓 Especialização em Dados e IA (MBA em Curso):**
+    * MBA em Data Science e Analytics na **ESALQ USP** 🤖
+    * MBA em Engenharia de Dados (Anhanguera) 📊
+* **🧠 Paixão e Expertise:** Modelos de Linguagem (LLMs), Redes Neurais, Machine Learning e Pipelines de Dados.
+* **💻 Formação Base:** Graduada em Análise e Desenvolvimento de Sistemas (FATEC) e Segurança da Informação (UNIP).
+
+---
+
+### 🔗 Conecte-se Comigo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-novelli-soares-3b262b20b/)
-
-
-### Tecnologias que uso no meu dia
-<div style="display: inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-</div><br/>
-
-- Atualmente estou realizando uma MBA em Data Science e Analytics na ESALQ USP e também MBA em Engenharia de Dados. 🤖 <br/>
-- Sou graduada em Análise e Desenvolvimento pela FATEC Americana e já realizei curso técnico no SENAI Alvares Romi na mesma área 💻. <br/>
-- Sou graduada também em Segurança da Informação pela UNIP Paulista 🌐.
-- Sou especialista e apaixonada em DADOS, Redes Neurais, Machine Learning e Deep Learning.
-- Manipulo ambientes via Docker e Kubernetes.
