@@ -2,7 +2,7 @@
 
 👩‍💻 **Engenheira de Software e Dados | Transformando Problemas em Soluções Inteligentes.**
 
-Sou uma profissional Full Stack com foco estratégico em **Engenharia de Dados e Inteligência Artificial**. Meu objetivo é construir arquiteturas robustas que integram o desenvolvimento web ao processamento e análise de dados em ambientes multicloud.
+Sou uma profissional Full Stack com foco estratégico em **Data Science e Inteligência Artificial**. Meu objetivo é construir arquiteturas robustas que integram o desenvolvimento web ao processamento e análise de dados em ambientes multicloud.
 
 ---
 
