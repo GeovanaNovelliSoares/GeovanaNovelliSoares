@@ -7,7 +7,7 @@ I am a Full Stack professional with a strategic focus on **Data Science and Arti
 
 ### 🛠️ Stack Principal (Ferramentas que me movem)
 
-| Área | Tecnologias Chave | Badges |
+| Area | Technologies | Badges |
 | :--- | :--- | :--- |
 | **Backend** | Java, PostgreSQL, PHP, SQL |<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> |
 | **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> |
