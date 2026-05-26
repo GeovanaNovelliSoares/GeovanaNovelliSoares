@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Geovana Novelli Soares
 
-Data Scientist focused on **Artificial Intelligence, Machine Learning, and Data-Driven Solutions**.
+Full Stack Developer focused on **Artificial Intelligence, Machine Learning, and Data-Driven Solutions**.
 I build scalable systems that combine **data pipelines, AI models, and cloud architectures** to solve real business problems.
 
 ---
